@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="Leetbook 1.c" />
     <ClCompile Include="Leetbook 2.c" />
+    <ClCompile Include="Leetbook 3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
