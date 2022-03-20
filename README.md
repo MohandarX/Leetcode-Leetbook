@@ -1,3 +1,2 @@
 # Leetcode-Leetbook
-
-leetbook初级算法
+leetcode刷题
